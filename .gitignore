@@ -1,0 +1,14 @@
+﻿# Ignore editor settings and build artifacts
+.vscode/
+*.exe
+*.obj
+*.o
+*.log
+# Ignore user-specific IDE files
+*.user
+*.suo
+# Ignore temporary files
+*.tmp
+# Ignore system files
+Thumbs.db
+*.DS_Store
